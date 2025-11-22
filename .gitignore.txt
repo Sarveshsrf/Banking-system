@@ -1,0 +1,8 @@
+# Ignore compiled files and system files
+*.class
+accounts.dat
+.vscode/
+.idea/
+*.log
+.DS_Store
+Thumbs.db
